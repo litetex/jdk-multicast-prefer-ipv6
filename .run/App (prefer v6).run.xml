@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="App (prefer v6)" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="App" />
+    <module name="multicast-test" />
+    <option name="VM_PARAMETERS" value="-Djava.net.preferIPv6Addresses=true" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
